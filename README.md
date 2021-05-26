@@ -1,2 +1,2 @@
 # StockMarketPredictions
-Stock Market Prediction using Facebook Prophet Library
+Stock Market Prediction using Facebook Prophet 
